@@ -1,0 +1,300 @@
+====================================================
+open log file: 2026-02-03 12:18:31
+[2026-02-03 12:18:31][notice]Start optimizing image id:44
+[2026-02-03 12:18:31][notice]Start backing up image(s).
+[2026-02-03 12:18:31][notice]Start compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg
+[2026-02-03 12:18:31][notice]Compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:18:31][notice]Start retrying optimization. Count:1
+[2026-02-03 12:18:31][notice]Start compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg
+[2026-02-03 12:18:31][notice]Compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:18:31][notice]Start retrying optimization. Count:2
+[2026-02-03 12:18:31][notice]Start compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg
+[2026-02-03 12:18:31][notice]Compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:18:31][notice]Start retrying optimization. Count:3
+[2026-02-03 12:18:31][error]Compressing image dirty-offroad-car-in-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:18:31][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:34
+[2026-02-03 12:30:34][notice]Start optimizing image id:52
+[2026-02-03 12:30:34][notice]Start backing up image(s).
+[2026-02-03 12:30:34][notice]Start compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg
+[2026-02-03 12:30:35][notice]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg failed. Error:Need login
+[2026-02-03 12:30:35][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:35][notice]Start compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg
+[2026-02-03 12:30:35][notice]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg failed. Error:Need login
+[2026-02-03 12:30:35][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:35][notice]Start compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg
+[2026-02-03 12:30:35][notice]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg failed. Error:Need login
+[2026-02-03 12:30:35][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:35][error]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-1-300x225.jpg failed. Error:Need login
+[2026-02-03 12:30:35][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:37
+[2026-02-03 12:30:37][notice]Start optimizing image id:53
+[2026-02-03 12:30:37][notice]Start backing up image(s).
+[2026-02-03 12:30:37][notice]Start compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg
+[2026-02-03 12:30:37][notice]Compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:37][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:37][notice]Start compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg
+[2026-02-03 12:30:37][notice]Compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:37][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:37][notice]Start compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg
+[2026-02-03 12:30:37][notice]Compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:37][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:37][error]Compressing image portrait-of-asian-mechanic-standing-in-arms-crossed-smiling-to-camera-e1697887079427-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:37][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:44
+[2026-02-03 12:30:44][notice]Start optimizing image id:54
+[2026-02-03 12:30:44][notice]Start backing up image(s).
+[2026-02-03 12:30:44][notice]Start compressing image retro-car-detailing-300x200.jpg
+[2026-02-03 12:30:44][notice]Compressing image retro-car-detailing-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:44][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:44][notice]Start compressing image retro-car-detailing-300x200.jpg
+[2026-02-03 12:30:44][notice]Compressing image retro-car-detailing-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:44][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:44][notice]Start compressing image retro-car-detailing-300x200.jpg
+[2026-02-03 12:30:44][notice]Compressing image retro-car-detailing-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:44][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:44][error]Compressing image retro-car-detailing-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:44][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:46
+[2026-02-03 12:30:46][notice]Start optimizing image id:55
+[2026-02-03 12:30:46][notice]Start backing up image(s).
+[2026-02-03 12:30:46][notice]Start compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg
+[2026-02-03 12:30:46][notice]Compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:46][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:46][notice]Start compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg
+[2026-02-03 12:30:46][notice]Compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:46][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:46][notice]Start compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg
+[2026-02-03 12:30:46][notice]Compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:46][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:46][error]Compressing image a-man-washes-a-car-clear-car-concept-1-e1697542231388-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:46][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:48
+[2026-02-03 12:30:48][notice]Start optimizing image id:56
+[2026-02-03 12:30:48][notice]Start backing up image(s).
+[2026-02-03 12:30:48][notice]Start compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg
+[2026-02-03 12:30:48][notice]Compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:48][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:48][notice]Start compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg
+[2026-02-03 12:30:48][notice]Compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:48][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:48][notice]Start compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg
+[2026-02-03 12:30:48][notice]Compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:48][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:48][error]Compressing image dirty-offroad-car-in-a-car-wash-e1697439516852-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:48][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:50
+[2026-02-03 12:30:50][notice]Start optimizing image id:57
+[2026-02-03 12:30:50][notice]Start backing up image(s).
+[2026-02-03 12:30:50][notice]Start compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg
+[2026-02-03 12:30:50][notice]Compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:50][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:50][notice]Start compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg
+[2026-02-03 12:30:50][notice]Compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:50][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:50][notice]Start compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg
+[2026-02-03 12:30:50][notice]Compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:50][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:50][error]Compressing image man-worker-washing-windshield-with-sponge-on-a-car-wash-1-300x200.jpg failed. Error:Need login
+[2026-02-03 12:30:50][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:30:51
+[2026-02-03 12:30:51][notice]Start optimizing image id:58
+[2026-02-03 12:30:51][notice]Start backing up image(s).
+[2026-02-03 12:30:51][notice]Start compressing image placeholder-300x200.png
+[2026-02-03 12:30:51][notice]Compressing image placeholder-300x200.png failed. Error:Need login
+[2026-02-03 12:30:51][notice]Start retrying optimization. Count:1
+[2026-02-03 12:30:51][notice]Start compressing image placeholder-300x200.png
+[2026-02-03 12:30:51][notice]Compressing image placeholder-300x200.png failed. Error:Need login
+[2026-02-03 12:30:51][notice]Start retrying optimization. Count:2
+[2026-02-03 12:30:51][notice]Start compressing image placeholder-300x200.png
+[2026-02-03 12:30:51][notice]Compressing image placeholder-300x200.png failed. Error:Need login
+[2026-02-03 12:30:51][notice]Start retrying optimization. Count:3
+[2026-02-03 12:30:51][error]Compressing image placeholder-300x200.png failed. Error:Need login
+[2026-02-03 12:30:51][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:03
+[2026-02-03 12:31:03][notice]Start optimizing image id:59
+[2026-02-03 12:31:03][notice]Start backing up image(s).
+[2026-02-03 12:31:03][notice]Start compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg
+[2026-02-03 12:31:03][notice]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg failed. Error:Need login
+[2026-02-03 12:31:03][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:03][notice]Start compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg
+[2026-02-03 12:31:03][notice]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg failed. Error:Need login
+[2026-02-03 12:31:03][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:03][notice]Start compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg
+[2026-02-03 12:31:03][notice]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg failed. Error:Need login
+[2026-02-03 12:31:03][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:03][error]Compressing image man-worker-washing-car-s-alloy-rims-on-a-car-wash-2-300x213.jpg failed. Error:Need login
+[2026-02-03 12:31:03][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:05
+[2026-02-03 12:31:05][notice]Start optimizing image id:60
+[2026-02-03 12:31:05][notice]Start backing up image(s).
+[2026-02-03 12:31:05][notice]Start compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg
+[2026-02-03 12:31:05][notice]Compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:05][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:05][notice]Start compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg
+[2026-02-03 12:31:05][notice]Compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:05][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:05][notice]Start compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg
+[2026-02-03 12:31:05][notice]Compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:05][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:05][error]Compressing image process-of-polishing-car-mirrors-with-a-polishing-machine-and-wax--300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:05][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:11
+[2026-02-03 12:31:11][notice]Start optimizing image id:61
+[2026-02-03 12:31:11][notice]Start backing up image(s).
+[2026-02-03 12:31:11][notice]Start compressing image professional-car-vacuuming-300x197.jpg
+[2026-02-03 12:31:11][notice]Compressing image professional-car-vacuuming-300x197.jpg failed. Error:Need login
+[2026-02-03 12:31:11][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:11][notice]Start compressing image professional-car-vacuuming-300x197.jpg
+[2026-02-03 12:31:11][notice]Compressing image professional-car-vacuuming-300x197.jpg failed. Error:Need login
+[2026-02-03 12:31:11][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:11][notice]Start compressing image professional-car-vacuuming-300x197.jpg
+[2026-02-03 12:31:11][notice]Compressing image professional-car-vacuuming-300x197.jpg failed. Error:Need login
+[2026-02-03 12:31:11][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:11][error]Compressing image professional-car-vacuuming-300x197.jpg failed. Error:Need login
+[2026-02-03 12:31:11][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:13
+[2026-02-03 12:31:13][notice]Start optimizing image id:62
+[2026-02-03 12:31:13][notice]Start backing up image(s).
+[2026-02-03 12:31:13][notice]Start compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg
+[2026-02-03 12:31:13][notice]Compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:13][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:13][notice]Start compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg
+[2026-02-03 12:31:13][notice]Compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:13][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:13][notice]Start compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg
+[2026-02-03 12:31:13][notice]Compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:13][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:13][error]Compressing image worker-wearing-protective-gloves-is-spraying-a-car-engine-with-a-can-of-cleaning-solution-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:13][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:19
+[2026-02-03 12:31:19][notice]Start optimizing image id:63
+[2026-02-03 12:31:19][notice]Start backing up image(s).
+[2026-02-03 12:31:19][notice]Start compressing image cleaning-car-steering-wheel-300x196.jpg
+[2026-02-03 12:31:19][notice]Compressing image cleaning-car-steering-wheel-300x196.jpg failed. Error:Need login
+[2026-02-03 12:31:19][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:19][notice]Start compressing image cleaning-car-steering-wheel-300x196.jpg
+[2026-02-03 12:31:19][notice]Compressing image cleaning-car-steering-wheel-300x196.jpg failed. Error:Need login
+[2026-02-03 12:31:19][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:19][notice]Start compressing image cleaning-car-steering-wheel-300x196.jpg
+[2026-02-03 12:31:19][notice]Compressing image cleaning-car-steering-wheel-300x196.jpg failed. Error:Need login
+[2026-02-03 12:31:19][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:19][error]Compressing image cleaning-car-steering-wheel-300x196.jpg failed. Error:Need login
+[2026-02-03 12:31:19][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:26
+[2026-02-03 12:31:26][notice]Start optimizing image id:64
+[2026-02-03 12:31:26][notice]Start backing up image(s).
+[2026-02-03 12:31:26][notice]Start compressing image dashed-300x71.png
+[2026-02-03 12:31:26][notice]Compressing image dashed-300x71.png failed. Error:Need login
+[2026-02-03 12:31:26][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:26][notice]Start compressing image dashed-300x71.png
+[2026-02-03 12:31:26][notice]Compressing image dashed-300x71.png failed. Error:Need login
+[2026-02-03 12:31:26][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:26][notice]Start compressing image dashed-300x71.png
+[2026-02-03 12:31:26][notice]Compressing image dashed-300x71.png failed. Error:Need login
+[2026-02-03 12:31:26][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:26][error]Compressing image dashed-300x71.png failed. Error:Need login
+[2026-02-03 12:31:26][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:27
+[2026-02-03 12:31:27][notice]Start optimizing image id:65
+[2026-02-03 12:31:27][notice]Start backing up image(s).
+[2026-02-03 12:31:27][notice]Start compressing image 2-300x300.jpg
+[2026-02-03 12:31:27][notice]Compressing image 2-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:27][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:27][notice]Start compressing image 2-300x300.jpg
+[2026-02-03 12:31:27][notice]Compressing image 2-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:27][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:27][notice]Start compressing image 2-300x300.jpg
+[2026-02-03 12:31:27][notice]Compressing image 2-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:27][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:27][error]Compressing image 2-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:27][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:29
+[2026-02-03 12:31:29][notice]Start optimizing image id:66
+[2026-02-03 12:31:29][notice]Start backing up image(s).
+[2026-02-03 12:31:29][notice]Start compressing image 14-300x300.jpg
+[2026-02-03 12:31:29][notice]Compressing image 14-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:29][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:29][notice]Start compressing image 14-300x300.jpg
+[2026-02-03 12:31:29][notice]Compressing image 14-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:29][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:29][notice]Start compressing image 14-300x300.jpg
+[2026-02-03 12:31:29][notice]Compressing image 14-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:29][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:29][error]Compressing image 14-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:29][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:31
+[2026-02-03 12:31:31][notice]Start optimizing image id:67
+[2026-02-03 12:31:31][notice]Start backing up image(s).
+[2026-02-03 12:31:31][notice]Start compressing image 9-300x300.jpg
+[2026-02-03 12:31:31][notice]Compressing image 9-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:31][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:31][notice]Start compressing image 9-300x300.jpg
+[2026-02-03 12:31:31][notice]Compressing image 9-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:31][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:31][notice]Start compressing image 9-300x300.jpg
+[2026-02-03 12:31:31][notice]Compressing image 9-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:31][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:31][error]Compressing image 9-300x300.jpg failed. Error:Need login
+[2026-02-03 12:31:31][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:32
+[2026-02-03 12:31:32][notice]Start optimizing image id:68
+[2026-02-03 12:31:32][notice]Start backing up image(s).
+[2026-02-03 12:31:32][notice]Start compressing image bubblee-AquaClean.png
+[2026-02-03 12:31:32][notice]Compressing image bubblee-AquaClean.png failed. Error:Need login
+[2026-02-03 12:31:32][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:32][notice]Start compressing image bubblee-AquaClean.png
+[2026-02-03 12:31:32][notice]Compressing image bubblee-AquaClean.png failed. Error:Need login
+[2026-02-03 12:31:32][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:32][notice]Start compressing image bubblee-AquaClean.png
+[2026-02-03 12:31:32][notice]Compressing image bubblee-AquaClean.png failed. Error:Need login
+[2026-02-03 12:31:32][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:32][error]Compressing image bubblee-AquaClean.png failed. Error:Need login
+[2026-02-03 12:31:32][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:31:34
+[2026-02-03 12:31:34][notice]Start optimizing image id:69
+[2026-02-03 12:31:34][notice]Start backing up image(s).
+[2026-02-03 12:31:34][notice]Start compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg
+[2026-02-03 12:31:34][notice]Compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:34][notice]Start retrying optimization. Count:1
+[2026-02-03 12:31:34][notice]Start compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg
+[2026-02-03 12:31:34][notice]Compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:34][notice]Start retrying optimization. Count:2
+[2026-02-03 12:31:34][notice]Start compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg
+[2026-02-03 12:31:34][notice]Compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:34][notice]Start retrying optimization. Count:3
+[2026-02-03 12:31:34][error]Compressing image man-worker-washing-car-on-a-car-wash-300x200.jpg failed. Error:Need login
+[2026-02-03 12:31:34][error]Optimizing image failed. Error:Need login
+====================================================
+open log file: 2026-02-03 12:32:07
+[2026-02-03 12:32:07][notice]Start optimizing image id:72
+[2026-02-03 12:32:07][notice]Start backing up image(s).
+[2026-02-03 12:32:07][notice]Start compressing image placeholder-1-300x200.png
+[2026-02-03 12:32:07][notice]Compressing image placeholder-1-300x200.png failed. Error:Need login
+[2026-02-03 12:32:07][notice]Start retrying optimization. Count:1
+[2026-02-03 12:32:07][notice]Start compressing image placeholder-1-300x200.png
+[2026-02-03 12:32:07][notice]Compressing image placeholder-1-300x200.png failed. Error:Need login
+[2026-02-03 12:32:07][notice]Start retrying optimization. Count:2
+[2026-02-03 12:32:07][notice]Start compressing image placeholder-1-300x200.png
+[2026-02-03 12:32:07][notice]Compressing image placeholder-1-300x200.png failed. Error:Need login
+[2026-02-03 12:32:07][notice]Start retrying optimization. Count:3
+[2026-02-03 12:32:07][error]Compressing image placeholder-1-300x200.png failed. Error:Need login
+[2026-02-03 12:32:07][error]Optimizing image failed. Error:Need login
